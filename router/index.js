@@ -12,6 +12,14 @@ const MyAccount = () =>
   import(/* webpackChunkName: "vsf-my-account" */ 'theme/pages/MyAccount');
 const Static = () =>
   import(/* webpackChunkName: "vsf-static" */ 'theme/pages/Static');
+const LoginPage = () =>
+  import(/* webpackChunkName: "vsf-login-page" */ 'theme/pages/LoginPage');
+const SocialLogin = () =>
+  import(/* webpackChunkName: "vsf-social-login" */ 'theme/pages/SocialLogin');
+const InterestsLogin = () =>
+  import(/* webpackChunkName: "vsf-interests-login" */ 'theme/pages/InterestsLogin');
+const AuthPage = () =>
+  import(/* webpackChunkName: "vsf-auth-page" */ 'theme/pages/AuthPage');
 
 let routes = [
   { name: 'home', path: '/', component: Home, alias: '/pwa.html' },
@@ -36,6 +44,10 @@ let routes = [
   { name: 'configurable-product', path: '/p/:parentSku/:slug/:childSku', component: Product },
   { name: 'product', path: '/p/:parentSku/:slug/:childSku', component: Product },
   { name: 'category', path: '/c/:slug', component: Category },
+  { name: 'login-page', path: '/login-page', component: LoginPage },
+  { name: 'social-login', path: '/social-login', component: SocialLogin },
+  { name: 'interests-login', path: '/interests-login', component: InterestsLogin },
+  { name: 'auth', path: '/auth', component: AuthPage },
   { name: 'cms-page', path: '/i/:slug', component: Static }
 ];
 

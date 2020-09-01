@@ -1,23 +1,333 @@
 {
-  "images": [
-    {
-      "title": "Colorful summer dresses are already in store",
-      "subtitle": "SUMMER COLLECTION 2020",
-      "background": "#F0F5F3",
-      "image": {
-        "webp": "/assets/banner/webp/full_width_banner.webp",
-        "fallback": "/assets/banner/png/full_width_banner.png"
-      }
-    },
-    {
-      "title": "Find clothing that expresses your individuality",
-      "subtitle": "SUMMER COLLECTION 2020",
-      "background": "#F0F5F3",
-      "className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
-      "image": {
-        "webp": "/assets/banner/webp/full_width_banner2.webp",
-        "fallback": "/assets/banner/png/full_width_banner2.png"
-      }
-    }
-  ]
+	"images":[
+	{
+		"id" : 4493148,
+		"reviewerID" : "A35Z6A2J7CFW2",
+		"asin" : "B00KNM763E",
+		"reviewerName" : "dosers \"dosers\"",
+		"reviewText" : "The latest version of this camera does a lot of things right that previous versions failed at.First of all, the 720p video quality - both at night with the auto-enabled IR and during the day - is clear and sharp. Moreso, the wide-angle lens has a great field of vision.The software - on iOS - is fine. It's just not great. There isn't a lot you can do and - one of the biggest issues I have with the camera itself - there is no rotation like FoSCam and many other cameras feature.I will say, if you are a WeMo household, like we are, the software automatically recognized the camera and lets you do a number of cool things, including triggering any other WeMo operations with motion. It's well done, nicely integrated - but unfortunately the WeMo software operates completely separate from the camera software itself - clearly, this needs better integration (WeMo can create a rule, but to 'watch' the camera, the app opens the other app, and you have to manually switch back). It works, but its not elegant.The audio - both in and out - is fine, and about the same as comparable cams out there. Not great, but it works.Of course, recording offsite is an additional fee, but so is the case with competitors.Bottomline, there isn't much NOT to like about the camera; if only the software was a bit better integrated with WeMo, and the native cam software was a little more elegant. I really miss a motor for rotation, but otherwise, it's a great little camera. Not enough to differentiate from competitors products however, unless you do utilize WeMo in your house already.Setup was easy once - and it took several tries - the wireless signal from the cam was found.",
+		"overall" : 4,
+		"summary" : "Good quality dress",
+		"unixReviewTime" : 1403568000,
+		"reviewTime" : "06 24, 2014",
+		"title": "Gabrielle Micro Sleeve Top",
+		"page": "women/tops-women/tees-women/tees-25/gabrielle-micro-sleeve-top-1417.html?childSku=WS02-XS-Blue",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"category":"Category1",
+		"image": {
+		  "webp": "/assets/banner/png/ws02-blue_main.jpg",
+		  "fallback": "/assets/banner/png/ws02-blue_main.jpg"
+		}
+	},
+	{
+		"id" : 9733435,
+		"reviewerID" : "A2PZBYC154HN65",
+		"asin" : "B00KYMCJF8",
+		"reviewerName" : "Bruce C. Kiley",
+		"reviewText" : "Would not pair with Win 7 PC.  Good sound &#34;inside&#34;, outside it had to turned up a 2x+ more to hear it.  The voice prompt is funny, is like a broken English Chinese translation with a lisp.  A few annoying  things are every time you connect, the volume is always low.  So you have to turn it up.  When its crowd outside, or even with some background noise, or anything like this you have to crank it and then it starts to distort as it&#8217;s only a single speaker and not a full 2-speaker stereo system.  The sound fades fast outside.The buttons are firm, so you have to press hard and hold it each time.  I tried over and over to pair to Dell XPS 8700.  It would never pair.  Vendor support?  Could not find much of anything, no website not even a simple URL, email or anything.  So I had no one to reach out too, to find out why.  Maybe it&#8217;s a OEM or something, but long term is a buy and throw away item.  It you have a basic cell and want sound its good, don&#8217;t expect the world, but it is way better than the cell speaker for sure.  If you don&#8217;t care about your money and how long it will last give it a shot $30 is cheap, but you&#8217;ll never get warrantee or support.",
+		"overall" : 3,
+		"summary" : "Overall Fair",
+		"unixReviewTime" : 1404691200,
+		"reviewTime" : "07 7, 2014",
+		"title": "Celeste Sports",
+		"page": "women/tops-women/tanks-women/bras-and-tanks-26/celeste-sports-bra-1641.html?childSku=WB03-L-Green",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category1",
+		"image": {
+		  "webp": "/assets/banner/png/wb03-green_main.jpg",
+		  "fallback": "/assets/banner/png/wb03-green_main.jpg"
+		}
+	},
+	{
+		"id" : 18005565,
+		"reviewerID" : "A10VSB8Y436JLQ",
+		"asin" : "B00KYMCJF8",
+		"reviewerName" : "tcmengineer",
+		"reviewText" : "This speaker works really well.  I was pleasantly suprised at how well the NFC function worked in getting the speaker paired and going in no time.  The sound quality is great on par with other quality competitors.  I haven't gotten this thing wet, but I'm sure it will take a good splash as everything looks to seal properly. I would buy another one if the amazing deal I got for it comes around again.",
+		"overall" : 5,
+		"summary" : "Simple,rugged and feels great",
+		"unixReviewTime" : 1405728000,
+		"reviewTime" : "07 19, 2014",
+		"title": "Minerva LumaTech V-Tee",
+		"page": "women/tops-women/tees-women/tees-25/minerva-lumatech-and-trade-v-tee-1497.html?childSku=WS08-XS-Black",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category1",
+		"image": {
+		  "webp": "/assets/banner/png/ws08-black_main.jpg",
+		  "fallback": "/assets/banner/png/ws08-black_main.jpg"
+		}
+	},
+	{
+		"id" : 18708878,
+		"reviewerID" : "A3OC93X866Z8TB",
+		"asin" : "B00KJJW36G",
+		"reviewerName" : "Celestialsky29",
+		"reviewText" : "This review is for the HEOS 3.  This speaker has excellent sound, specifically bass, which is hard to find at times.  You can store the speaker horizontal or vertical, which makes it versatile for any location.  As long as you have a nearby plug in, this speaker is small enough to fit easily in many locations.  It is supposed to be for a small room, but it works well for medium sized rooms as well.Set up was easy, once I changed out my router.  I have an old router that has issues, and my set up wasn't going well.  I pulled out a newer router, and used the enclosed ethernet cable.  Once I did this, the setup process just flew through.  I have an Iphone 5s and a Netgear router.The only thing I don't like about this speaker is that I wish it was bluetooth.  It isn't, and it doesn't claim to be, but it would be nice because then you would be able to play other apps on your speaker.  I use aSony SRSBTX500 Portable NFC Bluetooth Wireless Premium Speaker Systemto play my Sirius radio app, and I love it.  With the Denon speaker, you can only play the apps that come on the HEOS app.  You have Pandora, Tunein, Rhapsody, Spotify and the music that you have loaded to your phone.  In order to be able to use Pandora, for example, you must have that app also downloaded on your phone.  Those are great selections, and some of the best music apps available, but it would be nice to have Amazon Prime music and Sirius available to play.The sound quality of this speaker is awesome!  It plays music on Pandora with such clarity, and the bass is super.  I live in an apartment, so I had to keep the sound turned at a decent volume, which turned out to be about 1/4 of the volume that it is capable of achieving.  The Tune-In app that allows you to play radio, doesn't come in as impressive as Pandora.It will be nice to have several set up, and see how they all work together.  I would recommend it, if you are looking for a home system that spans through several rooms.  Perhaps, Denon will add a few more apps in the future.",
+		"overall" : 5,
+		"summary" : "Very nice material",
+		"unixReviewTime" : 1405209600,
+		"reviewTime" : "07 13, 2014",
+		"title": "Ariel Roll Sleeve Sweatshirt",
+		"page": "women/tops-women/hoodies-and-sweatshirts-women/hoodies-and-sweatshirts-24/ariel-roll-sleeve-sweatshirt-1167.html?childSku=WH09-XS-Green",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category1",
+		"image": {
+		  "webp": "/assets/banner/png/wh09-green_main.jpg",
+		  "fallback": "/assets/banner/png/wh09-green_main.jpg"
+		}
+	},
+	{
+		"id" : 24389771,
+		"reviewerID" : "A2TI5R93FF69UN",
+		"asin" : "B00KSLCU72",
+		"reviewerName" : "Jennifer D. Rhames \"Love cloths\"",
+		"reviewText" : "I can plug it  in my USB port and at same time regular plug plus what is really cool as well I can separate the universal ac adapter travel charger by pressing the release button on side and once apart I can accommodate which ever size plug  I want to connect  then plug it in wall simple , automatically the ac power light comes on red and stays the whole time on , and only when device is plugged up the USB power port comes on red too but cuts off when unplugged the device and each have power protection fuses these protect both from having to much power going though the universal ac adapter and what you plug it in to yourself  and examples of items to plug in are iPad ~ Tvs ~ Fans - radios , etc and only indoor use ok ~ other wise great and no issues : )All-in-one world travel adapter covers more than 150 countries with US/EU/AU/UK plugsSimultaneous usage of AC adapter and USB 5V/1A port to charge and power up to two devicesBuilt-in LED charge indicator signifies charger is ready to be usedSurge protection with built-in 6A 250v safety fuseAdditional fuse included in the base of the adapter for continuous usage if a fuse blows outShipping Weight: 4.8 ounces Courtesy of Fospower ..",
+		"overall" : 5,
+		"summary" : "This is great.",
+		"unixReviewTime" : 1403740800,
+		"reviewTime" : "06 26, 2014",
+		"title": "Chloe Compete Tank",
+		"page": "women/tops-women/tanks-women/bras-and-tanks-26/chloe-compete-tank-1769.html?childSku=WT06-XS-Blue",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category1",
+		"image": {
+		  "webp": "/assets/banner/png/wt06-blue_main.jpg",
+		  "fallback": "/assets/banner/png/wt06-blue_main.jpg"
+		}
+	},
+	{
+		"id" : 28297371,
+		"reviewerID" : "A3HAA7H8PBVM78",
+		"asin" : "B00KONCDVM",
+		"reviewerName" : "Joseph Oppenheim",
+		"reviewText" : "Pros:1. Wireless BT works great. 35 plus feet. I've tested using in another room from my phone about 30 feet with the door closed. Did not drop the signal.2. Noise isolation is very good. Can't hear my kids yelling and the dog barking.3. Quality of sound is very good. Bass is good.5. Charge lasts at least 4 hours from my testing. They will last longer but I have not tested beyond that. They recharge in about an hour or so. Standard USB connector for charging is good. So I can use other cables if need be.4. Fit works very well after getting used to putting them on. They do not fall off during jogging or other high motion exercises.6. BT connects automatically after first setup. My other BT headphones do not and it's an extra painful step that these allow me to skip.Cons:1. Fit gets to be uncomfortable after longer uses. This is acceptable, as these need to be secure in your ear so they don't fall out while moving around or exercising. I would not recommend if you will be using for longer periods of time, as comfort will probably be an issue. Not as much a Con on the product but the type of headphone.2. Profile could be a bit smaller. They sick out a bit far but not any more than other BT headphones I've seen. I would have liked to wear these under my motorcycle helmet but they stick out too far.",
+		"overall" : 5,
+		"summary" : "Great for exercise.",
+		"unixReviewTime" : 1404259200,
+		"reviewTime" : "07 2, 2014",
+		"title": "Erika Running Short",
+		"page": "women/bottoms-women/shorts-women/shorts-28/erika-running-short-2045.html?childSku=WSH12-28-Green",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category2",
+		"image": {
+		  "webp": "/assets/banner/png/wsh12-green_main.jpg",
+		  "fallback": "/assets/banner/png/wsh12-green_main.jpg"
+		}
+	},
+	{
+		"id" : 35987960,
+		"reviewerID" : "AMHWY4WAHR77B",
+		"asin" : "B00KJGY3TO",
+		"reviewerName" : "Alexweb1000",
+		"reviewText" : "This is a great monitor for the price.  it supports 60Hz but only on display port. If your computer has HDMI output the maximum resolution that it will display is 3840 x 2160@30Hz and not 60Hz (i currently have a new MacPro 2013 so i had to buy a display port to mini display port and connect it on the thunderbolt port, just make sure its version 1.2 otherwise you will not get full 4k quality.)Image quality is great with about 90%RGB accuracy, great for everyday stuff but if you are editing video or photos professionally this monitor is not for you.Viewing angles are better than other TN panels from the side but it suffer when the monitor is too high or low and you need to tilt screen, luckily the monitor has a great mount that can be raised and lowered, so if you adjusted at eye level you will not notice any washed colors.Will you notice image quality increase.....YES you will most monitor on the market right now range from about 65-90 pixel per square inch, this one packs about 155 PPI, images look great and text looks smooth.You will need to increase the DPI on your windows pc or mac otherwise all your icons and text will look really small (Monitor packs 4 1080 monitors pixels into the same size monitor[RIGHT CLICK ON DESKTOP AND THEN ON RESOLUTION, NOW CLICK ON MAKE TEXT SMALLER OR BIGGER, FINALLY MAKE YOUR SELECTION TO THE DESIRE DPI] (CHANGES FOR PC)MAC SETTINGS  ARE UNDER SYSTEM PREFERENCE AND THEN DISPLAY.....CLICK ON SCALED AND CHOOSE YOUR SETTINGS.",
+		"overall" : 4,
+		"summary" : "Great product",
+		"unixReviewTime" : 1403049600,
+		"reviewTime" : "06 18, 2014",
+		"title": "Ina Compression Short",
+		"page": "women/bottoms-women/shorts-women/shorts-28/ina-compression-short-2029.html?childSku=WSH11-28-Blue",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category2",
+		"image": {
+		  "webp": "/assets/banner/png/wsh11-blue_main.jpg",
+		  "fallback": "/assets/banner/png/wsh11-blue_main.jpg"
+		}
+	},
+	{
+		"id" : 41700525,
+		"reviewerID" : "A38KK0SZYEH5UD",
+		"asin" : "B00KNM763E",
+		"reviewerName" : "Busy Executive",
+		"reviewText" : "I've been through several WiFi cameras lately, and the Belkin has certainly proven to be one of the better options. Image quality is good, and the camera itself is small, stable and unobtrusive.Out of the box, it's easy to setup - you can be up and running in just a few minutes if you follow the instructions closely. It's small enough that you can mount it anywhere, and the swiveling base gives you a lot of freedom in positioning. It communicates over your WiFi network - be sure you have good signal strength in the area you want to monitor - and like a lot of these devices, the connection flows out from the device to a manufacturer's website...although you might legitimately be concerned about privacy on the Belkin site, this means you don't need to open firewall ports. In my opinion, this is a better bet from a security point of view.Image quality is perhaps slightly above average for this type of product. You can argue that 720p is hi-def, but to me, the limiting factor is the degree of compression applied to the signal. A reasonable home-grade 720p camcorder, for example, would record at something around 10-12 megabits per second, but the Belkin is only a small fraction of this - and that's where the image quality suffers. True, most people wouldn't want 10-12 megabits of their Internet bandwidth consumed by a camera, so there are valid tradeoffs to be made - but don't expect DVD quality images just because it's labeled &#34;HD&#34;. Still, if your goal is to monitor on a smartphone, then you probably don't need any more than what the Belkin delivers.Speaking of remote viewing, the Belkin iOS app is okay, though a bit rough in spots. Still, it's pretty much everything you need to look in on your camera, and unlike some manufacturers, it's totally free to use. That is, unless you sign up for Cloud video storage - essentially a DVR in the cloud.I couldn't get the Belkin to work reliably with my home automation system (Micasa Verde Vera 3). There is a plug-in for Belkin WeMo devices, but it didn't seem to be able to discover the camera, and even when I configured it by hand, it never worked.Bottom line is that if you want a basic, inexpensive video monitor that's simple to setup and low cost, the Belkin is worth a look.",
+		"overall" : 4,
+		"summary" : "Average",
+		"unixReviewTime" : 1405123200,
+		"reviewTime" : "07 12, 2014",
+		"title": "Ana Running Short",
+		"page": "women/bottoms-women/shorts-women/shorts-28/ana-running-short-2022.html?childSku=WSH10-28-Black",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category2",
+		"image": {
+		  "webp": "/assets/banner/png/wsh10-black_main.jpg",
+		  "fallback": "/assets/banner/png/wsh10-black_main.jpg"
+		}
+	},
+	{
+		"id" : 49591265,
+		"reviewerID" : "A4WEZJOIZIV4U",
+		"asin" : "B00L3YHF6O",
+		"reviewerName" : "Chuck Bittner \"Disabled comedian & gamer!\"",
+		"reviewText" : "I've been a long time Creative customer since back in the Sound Blaster sound card days.  I've tried out a lot of wireless Bluetooth speakers and this one is near the best. And it's the cheapest out of all the best that I've tried. And the features are in abundance and it really shows that Creative knows how to do things right. It's just a really nice design with a lot of features that are super useful.The one feature I love and stands out is something I've never seen before, being able to record phone calls. I'm somebody who often wants to record a phone call especially when I'm calling customer service with a problem or complaint. A: because part of me wants to have a record of what we talked about for my own review. B: part of me was uploaded to YouTube if they treat me like a piece of trash. But I've never seen this option on a Bluetooth speaker before and it's just such a great thing to have. And records to your microSD card so that you can remove it and import it into your computer. It simply does the really shows creative put a lot of thought into how we might want to use the speaker.Another feature I find compelling and again a very unique feature for wireless speakers, multiple devices at once. With low-end speakers it's really annoying to have to keep pairing your device when you want to take over command. Special my friends are over and were sharing tunes. What's nice about the Sound Blaster Roar is that you can have more than one user paired at the same time to the speaker. Again another thing that shows Creative with the real thought into what the users want.The sound of the Roar is spectacular maybe not as good as the Bose speaker system I've used before but still pretty good by comparison. Definitely a great speaker you want to take it to a party/cookout/beach. It really does put out a lot of sound for a small portable device. It's rather impressive to see what Creative has crammed into such a small device.  A feature I did not get to try out is being able to run two speakers at the same time. To me you want to have sound usually spread across the room and running two speakers in parallel definitely will help saturate the area.What is NFC? Near field communication (NFC) is a set of standards for smartphones and similar devices to establish radio communication with each other by touching them together or bringing them into proximity, usually no more than a few inches.  I don't have NFC on any of my devices so I couldn't test it but I can't wait to get one because pairing via Bluetooth can be a pain in the butt. I'll test it out hopefully when the new iPhone emerges in the fall. But if it works as described as I'm imagining it does I can see myself using it all the time.So in conclusion I love this speaker. And it under $150 at the time of writing this review I think it stacks up against more expensive units by Sony and Boise and it has features that many of them lack. And this is perfect for cookouts with friends or trips to the beach really any time you want to have access to some musical entertainment.Thanks for reading!PS I really think a standout feature of this is the ability to record phone conversations.  This is something I wanted to do for so long and this provides an easy way to get it done.",
+		"overall" : 5,
+		"summary" : "Fine material",
+		"unixReviewTime" : 1405036800,
+		"reviewTime" : "07 11, 2014",
+		"title": "Artemis Running Short",
+		"page": "women/bottoms-women/shorts-women/shorts-28/artemis-running-short-1972.html?childSku=WSH04-28-Black",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category2",
+		"image": {
+		  "webp": "/assets/banner/png/wsh04-black_main.jpg",
+		  "fallback": "/assets/banner/png/wsh04-black_main.jpg"
+		}
+	},
+	{
+		"id" : 56400099,
+		"reviewerID" : "A2L4ZGN7GZJ95T",
+		"asin" : "B00L21HC7A",
+		"reviewerName" : "Jed Shlackman",
+		"reviewText" : "This card reader has 3 slots and can handle SD, MicroSD and CF cards. The USB cable neatly folds into the unit and the top of the unit contains a card storage section. This item was able to read all my cards (SD & MicroSD) that I tried with it. It transferred data smoothly and was easily recognized by my Windows computer. There does seem to be an issue with the unit's bonding, so where the top and bottom of the unit come together it is loose on one side. I would also be cautious with the cover for the storage area - bend it too far back and it would break. This unit came in the type of plastic packaging that you have to cut open, which is a bit cumbersome. Overall I am pleased with this card reader, which was provided to me for free by the manufacturer for review purposes.",
+		"overall" : 4,
+		"summary" : "Useful and durable",
+		"unixReviewTime" : 1404259200,
+		"reviewTime" : "07 2, 2014",
+		"title": "Mimi All-Purpose Short",
+		"page": "women/bottoms-women/shorts-women/shorts-28/mimi-all-purpose-short-2015.html?childSku=WSH09-28-Gray",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category2",
+		"image": {
+		  "webp": "/assets/banner/png/wsh09-gray_main.jpg",
+		  "fallback": "/assets/banner/png/wsh09-gray_main.jpg"
+		}
+	},
+	{
+		"id" : 59206514,
+		"reviewerID" : "A2QYWB6UH4J7Q0",
+		"asin" : "B00KK9481I",
+		"reviewerName" : "Nobody important",
+		"reviewText" : "I suppose I am not the real target demographic for this speaker set.  It is pretty clearly aimed at those who want a modest, budget enhancement for gaming, whereas I am a music fan.  The speaker set basically exists for the primary purpose of having a small, unobtrusive subwoofer.  However, the main speakers are not exactly audiophile equipment, so what you really get with this set is the ability to crank up the bass a bit so that there is a modest rumble with those explosions in games.  For music, the sound is only a modest improvement on the built-in speakers on my iMac desktop.  Frankly, I have no desire to crank up the bass while listening to Miles Davis, so without good treble, these speakers are not for me.  The other limiting factor to keep in mind is that the cables are rather short, meaning you won't have many options for speaker placement.  They are just long enough to keep the subwoofer at your feet underneath the desk with the main speakers to either side of your monitor.  For music, speaker placement matters far more, so you need to have longer cables.Is this for you?  That depends.  If you want a good listening experience for music, sorry, but you'll have to shell out more money.  If you just want a cheap set with a subwoofer for those games, then I suppose these might do, but don't expect miracles.",
+		"overall" : 3,
+		"summary" : "Not good",
+		"unixReviewTime" : 1405900800,
+		"reviewTime" : "07 21, 2014",
+		"title": "Oslo Trek Hoodie",
+		"page": "men/tops-men/hoodies-and-sweatshirts-men/hoodies-and-sweatshirts-15/oslo-trek-hoodie-179.html?childSku=MH08-M-Red",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category3",
+		"image": {
+		  "webp": "/assets/banner/png/mh08-brown_main.jpg",
+		  "fallback": "/assets/banner/png/mh08-brown_main.jpg"
+		}
+	},
+	{
+		"id" : 95358980,
+		"reviewerID" : "ARZGDIKHH07TU",
+		"asin" : "B00KYMCJF8",
+		"reviewerName" : "S. Brown",
+		"reviewText" : "It is pretty good for what it is, a small, single-speaker Bluetooth speaker.  It can get quite loud, but the sound quality is not great.  Obviously the louder you get the more harsh it sounds, though not necessarily distorted.  Being only 1 speaker you don't get the stereo effect of a Jambox or one of its asssociated copycats.  I find generally sound on those is superior, as well as the volume.  But of course they are more bulky.The utterly ridiculous voice that screams \"Waiting for Bluetoos co-nection\" (not a typo) is so annoying.  It is loud, it is obviously spoken (poorly) by a non-English speaker.  It seems this is common on these cheaper made in China speakers.  I truly fail to see how this is better than just a beep, an LED, or nothing at all.  It is just annoying.  I would probably give it an extra star if I could turn that off.-----------------------------------------------UPDATE - 7/9/14:The manufacturer reached out and said they were fixing my complaint about the voice prompt and would send me a replacement unit. True to my original review, I said that would add a star, and therefore I have revised my rating to 4 stars to do so. I also consider that excellent customer service from the manufacturer, so that would factor positively into my decision to buy this product.",
+		"overall" : 4,
+		"summary" : "Decent for price.",
+		"unixReviewTime" : 1404345600,
+		"reviewTime" : "07 3, 2014",
+		"title": "Stark Fundamental Hoodie",
+		"page": "men/tops-men/hoodies-and-sweatshirts-men/hoodies-and-sweatshirts-15/stark-fundamental-hoodie-147.html?childSku=MH06-XS-Black",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category3",
+		"image": {
+		  "webp": "/assets/banner/png/mh06-black_main.jpg",
+		  "fallback": "/assets/banner/png/mh06-black_main.jpg"
+		}
+	},
+	{
+		"id" : 100340452,
+		"reviewerID" : "A15J71JLC29KPW",
+		"asin" : "B00KWHMR6G",
+		"reviewerName" : "Mary Jo DiBella",
+		"reviewText" : "I know how to set up a network.  Done it more times than I can count, for myself and family members.  I thought this new version of what is purported to be the best router available would possibly solve some of the range problems I have experienced in my house.No such luck.  I plugged it in, followed the installation instructions and let the genie update the firmware.  My brand new network was clearly visible on all of my devices, but nothing would connect to it.  I finally got the laptop connected, but the connection dropped mysteriously a few minutes later.  The router's power button was blinking, which according to the manual means a problem with the firmware.  So I backed off and manually re-installed the original firmware from their website.  The light was still blinking. I say all of this to make it clear that I am not a newbie.  I know what I am doing.I spent 30 minutes on hold at the Netgear tech support number, which suggests I am not the only one having trouble.  Sadly, after that 30 minute wait, the phone call was terminated with no warning, just BLIP and they hung up on me.  Kind of like the router's network connections.  So I never did get to talk to a customer service rep.This is going back to Amazon today.  I might try it again after Netgear cleans up some of the problems, but for now in my opinion it is not worth the trouble, or the price.",
+		"overall" : 1,
+		"summary" : "Major problems",
+		"unixReviewTime" : 1405123200,
+		"reviewTime" : "07 12, 2014",
+		"title": "Ajax Full-Zip Sweatshirt",
+		"page": "men/tops-men/hoodies-and-sweatshirts-men/hoodies-and-sweatshirts-15/ajax-full-zip-sweatshirt-243.html?childSku=MH12-XS-Blue",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category3",
+		"image": {
+		  "webp": "/assets/banner/png/mh12-blue_main.jpg",
+		  "fallback": "/assets/banner/png/mh12-blue_main.jpg"
+		}
+	},
+	{
+		"id" : 101302631,
+		"reviewerID" : "A28I19Q54MYXGV",
+		"asin" : "B00KNM763E",
+		"reviewerName" : "Buffy",
+		"reviewText" : "This is a solid yet compact netcam (also doubles as a nanny cam, pet cam, etc) from Belkin. I've also had one from Foscam and feel this Belkin is a step up. Set up is fairly easy and the integration with a Belkin wireless router is a plus. Not sure how having a non-Belkin router affects your performance. The resolution is good at 720p, 1080p would be better but there are tradeoffs to make. As it is the 720p is good enough for my use. The best plus of this is the ease of accessing and viewing the video from an iPhone. It's never been easy with my Foscam and the third party apps are just not that good from what I've tried. That's the key feature for me: being able to view video remotely. This Belkin does the trick and so far so good. Hope this review helps a little in making your decision.",
+		"overall" : 4,
+		"summary" : "Fair for usability.",
+		"unixReviewTime" : 1405209600,
+		"reviewTime" : "07 13, 2014",
+		"title": "Lando Gym Jacket",
+		"page": "men/tops-men/jackets-men/jackets-14/lando-gym-jacket-339.html?childSku=MJ08-XS-Blue",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category3",
+		"image": {
+		  "webp": "/assets/banner/png/mj08-blue_main.jpg",
+		  "fallback": "/assets/banner/png/mj08-blue_main.jpg"
+		}
+	},
+	{
+		"id" : 104061613,
+		"reviewerID" : "A1Y21MU5P40900",
+		"asin" : "B00KYMCJF8",
+		"reviewerName" : "Amazon Customer",
+		"reviewText" : "I gave this as a gift and they raved  about this speaker. They used it on their back porch and played it via their smartphone.  I am giving this as a gift again this week. I like the fact that it is splash resistant.",
+		"overall" : 5,
+		"summary" : "A great gift",
+		"unixReviewTime" : 1405641600,
+		"reviewTime" : "07 18, 2014",
+		"title": "Lando Gym Jacket",
+		"page": "men/tops-men/jackets-men/jackets-14/lando-gym-jacket-339.html?childSku=MJ08-XS-Blue",
+		"background": "#F0F5F3",
+		"height":"14rem",
+		"width":"14rem",
+		"className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right",
+		"category":"Category3",
+		"image": {
+		  "webp": "/assets/banner/png/mj08-blue_main.jpg",
+		  "fallback": "/assets/banner/png/mj08-blue_main.jpg"
+		}
+	}
+]
 }

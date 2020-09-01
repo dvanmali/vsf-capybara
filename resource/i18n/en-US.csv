@@ -1,5 +1,6 @@
 "A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website."
 "About us (Magento CMS)","About us (Magento CMS)"
+Add Review,Add Review
 "About us","About us"
 "Add a discount code","Add a discount code"
 "Add discount code","Apply"
@@ -67,6 +68,7 @@
 "Edit your profile","Edit your profile"
 "Edit your shipping details","Edit your shipping details"
 "Edit","Edit"
+Edit Review,Edit Review
 "Email address *","Email address *"
 "Email address","Email address"
 "English","English"
@@ -77,6 +79,7 @@
 "Everything new","Everything new"
 "Extension developers would like to thank you for placing an order!","Extension developers would like to thank you for placing an order!"
 "Faster checkout","Faster checkout"
+Feel free to add a review for the purchased product,Feel free to add a review for the purchased product
 "Field is required","Field is required"
 "Filter by categories","Filter by categories"
 "Filter","Filter"
@@ -100,6 +103,7 @@
 "Hide products","Hide products"
 "Home","Home"
 "House/Apartment number *","House/Apartment number *"
+How would you rate the product?,How would you rate the product?
 "House/Apartment number","House/Apartment number"
 "I accept ","I accept "
 "I accept terms and conditions","I accept terms and conditions"
@@ -111,6 +115,7 @@
 "I want to receive a newsletter, and agree to its terms","I want to receive a newsletter, and agree to its terms"
 "If you need an assistance you can drop us a line on","If you need an assistance you can drop us a line on"
 "Instant Checkout","Instant Checkout"
+Interests have been successfully updated.,Interests have been successfully updated.
 "Internal Server Error 500","Internal Server Error 500"
 "It carefully packaged with a personal touch","It carefully packaged with a personal touch"
 "Italian","Italian"
@@ -150,6 +155,7 @@
 "No results were found.","No results were found."
 "No reviews have been posted yet. Please don't hesitate to share Your opinion and write the first review!","No reviews have been posted yet. Please don't hesitate to share Your opinion and write the first review!"
 "OK","OK"
+OTP,OTP
 "Open menu","Open menu"
 "Open microcart","Open microcart"
 "Open my account","Open my account"
@@ -178,7 +184,10 @@
 "Please change Your search criteria and try again. If still not finding anything relevant, please visit the Home page and try out some of our bestsellers!","Please change Your search criteria and try again. If still not finding anything relevant, please visit the Home page and try out some of our bestsellers!"
 "Please check if all data are correct","Please check if all data are correct"
 "Please confirm order you placed when you was offline","Please confirm order you placed when you was offline"
+Please provide correct OTP,Please provide correct OTP
 "Please provide valid e-mail address.","Please provide valid e-mail address."
+Please provide your review of the product here.,Please provide your review of the product here.
+Please select the attributes the product satisfies.,Please select the attributes the product satisfies.
 "Price {variant}","Price {variant}"
 "Price","Price"
 "Price: High to low","Price: High to low"
@@ -209,6 +218,9 @@
 "Return to shopping","Return to shopping"
 "Returns","Returns"
 "Review order","Review order"
+Reviewer Id,Reviewer Id
+Reviewer Name,Reviewer Name
+Reviews,Reviews
 "SKU","SKU"
 "SKU: {sku}","SKU: {sku}"
 "Safety","Safety"
@@ -219,6 +231,8 @@
 "See our bestsellers","See our bestsellers"
 "Select No","Select No"
 "Select Yes","Select Yes"
+Select a review to edit.,Select a review to edit.
+Select an order to review.,Select an order to review.
 "Select color ","Select color "
 "Select size {variant}","Select size {variant}"
 "Ship to my default address","Ship to my default address"
@@ -383,6 +397,7 @@
 "Download","Download"
 "Download all","Download all"
 "VIEW","VIEW"
+Validate OTP,Validate OTP
 "Homepage","Homepage"
 "Order date","Order date"
 "Return to home","Return to home"
@@ -412,6 +427,11 @@
 "Share Your Look","Share Your Look"
 "or fill the details below","or fill the details below"
 "Details","Details"
+Details,Details
 "Review","Review"
+Review Text,Review Text
+Review has been successfully added.,Review has been successfully added.
+Review has been successfully updated.,Review has been successfully updated.
 "Menu","Menu"
 "Selected variant is out of stock","Selected variant is out of stock"
+Send OTP,Send OTP

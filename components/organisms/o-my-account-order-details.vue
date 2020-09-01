@@ -34,6 +34,9 @@
           <SfTableHeader class="table__header">
             {{ $t('Quantity') }}
           </SfTableHeader>
+          <SfTableHeader class="table__header">
+            {{ $t('Reviews') }}
+          </SfTableHeader>
           <SfTableHeader class="table__header table__price">
             {{ $t('Subtotal') }}
           </SfTableHeader>
@@ -41,6 +44,22 @@
             {{ $t('Price') }}
           </SfTableHeader>
         </SfTableHeading>
+        <SfTableRow :key="review">
+          <SfTableData class="table__header">
+            <form @submit.prevent="addReview" class="form">
+              <SfButton class="sf-button--outline form__submit">
+                {{ $t("Add Review") }}
+              </SfButton>
+            </form>
+          </SfTableData>
+          <SfTableData class="table__header">
+            <form @submit.prevent="editReview" class="form">
+              <SfButton class="sf-button--outline form__submit">
+                {{ $t("Edit Review") }}
+              </SfButton>
+            </form>
+          </SfTableData>
+        </SfTableRow>
         <SfTableRow v-for="product in products" :key="product.id">
           <SfTableData class="table__header table__image">
             <SfImage :src="getThumbnailForProduct(product)" :alt="product.name | htmlDecode" />
@@ -146,7 +165,8 @@ import {
   SfBadge,
   SfTable,
   SfProperty,
-  SfImage
+  SfImage,
+  SfButton
 } from '@storefront-ui/vue';
 
 export default {
@@ -157,7 +177,8 @@ export default {
     SfBadge,
     SfTable,
     SfProperty,
-    SfImage
+    SfImage,
+    SfButton
   },
   props: {
     order: {
@@ -184,6 +205,7 @@ export default {
   },
   methods: {
     getOrderedProducts () {
+      console.log('getting ordered products');
       let arrayOfSKUs = []
       this.order.items.forEach(product => {
         if (arrayOfSKUs.indexOf(product.sku) === -1) {
@@ -199,6 +221,12 @@ export default {
           this.products.push(Object.assign({}, relatedProduct, responseItem))
         })
       })
+    },
+    addReview () {
+      this.$router.push(this.localizedRoute('/add-review'));
+    },
+    editReview () {
+      this.$router.push(this.localizedRoute('/edit-review'));
     },
     getThumbnailForProduct (product) {
       const thumbnail = productThumbnailPath(product)

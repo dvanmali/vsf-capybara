@@ -31,8 +31,11 @@
         <SfContentPage :title="$t('Order history')">
           <OMyAccountOrdersHistory />
         </SfContentPage>
+        <SfContentPage :title="$t('Add Review')">
+          <OMyAccountAddReview />
+        </SfContentPage>
         <SfContentPage :title="$t('My reviews')">
-          <OMyAccountPlaceholder :title="$t('My reviews')" />
+          <OMyAccountMyReviews />
         </SfContentPage>
       </SfContentCategory>
       <SfContentPage :title="$t('Log out')" />
@@ -44,6 +47,9 @@
 import MyAccount from '@vue-storefront/core/pages/MyAccount';
 
 import OMyAccountProfile from 'theme/components/organisms/o-my-account-profile';
+import OMyAccountAddReview from 'theme/components/organisms/o-my-account-add-review';
+import OMyAccountEditReview from 'theme/components/organisms/o-my-account-edit-review';
+import OMyAccountMyReviews from 'theme/components/organisms/o-my-account-my-reviews';
 import OMyAccountShippingDetails from 'theme/components/organisms/o-my-account-shipping-details'
 import OMyAccountOrdersHistory from 'theme/components/organisms/o-my-account-orders-history';
 import OMyAccountPlaceholder from 'theme/components/organisms/o-my-account-placeholder';
@@ -57,7 +63,10 @@ export default {
     OMyAccountProfile,
     OMyAccountShippingDetails,
     OMyAccountOrdersHistory,
-    OMyAccountPlaceholder
+    OMyAccountPlaceholder,
+    OMyAccountAddReview,
+    OMyAccountEditReview,
+    OMyAccountMyReviews
   },
   mixins: [MyAccount],
   data () {

@@ -32,7 +32,7 @@ export default {
       if (this.isLoggedIn) {
         this.$router.push(this.localizedRoute('/my-account'))
       } else {
-        this.openModal({ name: ModalList.Auth, payload: 'login' })
+        this.$router.push(this.localizedRoute('/auth'));
       }
     }
   }
